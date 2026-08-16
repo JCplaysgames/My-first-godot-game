@@ -1,5 +1,0 @@
-[gd_scene format=3 uid="uid://ccsknmavn02mm"]
-
-[ext_resource type="PackedScene" uid="uid://ccsknmavn02mm" path="res://Scenes/coin.tscn" id="1_2qo34"]
-
-[node name="Coin" unique_id=1784678496 instance=ExtResource("1_2qo34")]
