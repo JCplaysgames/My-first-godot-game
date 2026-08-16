@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://b2um2vro7k0vw"]
+
+[ext_resource type="PackedScene" uid="uid://b2um2vro7k0vw" path="res://Scenes/killzone.tscn" id="1_jvagm"]
+
+[node name="Killzone" unique_id=981446511 instance=ExtResource("1_jvagm")]
